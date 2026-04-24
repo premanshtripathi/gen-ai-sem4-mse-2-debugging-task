@@ -1,5 +1,7 @@
 # KIET_AI_DebugChallenge
 
+# Fixed the bugs listed below
+
 # Bugs
 Bug 2 → Crash immediately: vocabulary is empty since all text tokens are letters, never digits
 
